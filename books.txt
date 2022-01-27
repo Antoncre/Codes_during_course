@@ -1,0 +1,4 @@
+yes,ff,1
+kg,dd,0
+foes,ff,0
+grim,amelka,1
