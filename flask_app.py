@@ -6,8 +6,8 @@ app = Flask(__name__)
 liv = {
     0: {
         "id": 0,
-        "Title": "Your mom",
-        "Content": "is beautiful"
+        "Title": "Random",
+        "Content": "Content"
     }
 }
 
