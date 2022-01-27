@@ -25,7 +25,7 @@ class Employee(Salary, Promotable):
         return self.calculate(40)
 
 
-anton = Employee(15.0)
+anton = Employee(200.0)
 print(anton.weekly_salary())
 anton.promote(5)
 print(anton.weekly_salary())
